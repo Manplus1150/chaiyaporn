@@ -1,1 +1,0 @@
-{"Version":"1.5","Url":"https:\/\/github.com\/cheytacm200\/ki4a\/raw\/master\/mjvip.zip","Changelog":"\r\nTRUE & DTAC\r\n","latestVersion":"1.0.0","latestVersionCode":"1","url":"","releaseNotes":["-Demo"]}
